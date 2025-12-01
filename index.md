@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to AutoSite
+title: Welcome to Unwanted Soulz
 ---
 
 # Daily AI-Generated Articles
