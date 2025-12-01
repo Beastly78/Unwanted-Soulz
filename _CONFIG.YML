@@ -1,0 +1,13 @@
+title: AutoSite Blog
+description: Daily AI-generated articles
+theme: minima
+
+markdown: kramdown
+
+collections:
+  posts:
+    output: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
