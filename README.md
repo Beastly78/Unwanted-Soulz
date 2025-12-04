@@ -1,2 +1,2 @@
-# autosite
+# Unwanted soulz
 automated article generator
