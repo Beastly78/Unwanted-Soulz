@@ -1,2 +1,2 @@
-# Unwanted soulz
+# Unwanted Soulz
 automated article generator
